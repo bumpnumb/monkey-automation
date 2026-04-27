@@ -7,6 +7,7 @@
 // @match        https://github.com/*/*/actions*
 // @grant        none
 // @run-at       document-idle
+// @downloadURL  https://github.com/bumpnumb/monkey-automation/raw/main/userscripts/github-actions-workflow-cleaner/script.js
 // ==/UserScript==
 
 (function () {
